@@ -2,7 +2,7 @@
 
 ## 🎯 About the project
 
-This repository is a based in the original One Billion Row Challenge, a Go project designed to aggregate one billion lines of text data.
+This repository is a based on the original [One Billion Row Challenge](https://github.com/gunnarmorling/1brc), a Go project designed to aggregate one billion lines of text data.
 
 ---
 
